@@ -9,8 +9,4 @@ I aim to become a full time Web Developer as soon as possible.
 " I’m the type of person that if you ask me a question and I don’t know the answer, 
   I’m gonna tell you that I don’t know. 
   But I bet you what, I know how to find the answer and I will find the answer. ”
-
-<!---
-Roveri91/Roveri91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
