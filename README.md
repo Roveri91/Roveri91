@@ -4,7 +4,7 @@
 - 💞️ I’m looking for make some experience and sharpen my skills.
 - 📫 For enquire just mail me at spikeroveri91@gmail.com
 
-I aim to become a full time Web Developer as soon as possible.
+I aim to become a full stack Web Developer as soon as possible.
 
 " I’m the type of person that if you ask me a question and I don’t know the answer, 
   I’m gonna tell you that I don’t know. 
