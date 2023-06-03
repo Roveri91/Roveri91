@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simone Roveri an italian self taught Web-Dev based in Osaka;
 - 👀 I love video games, sports and any kind of music;
-- 🌱 I’m currently learning HTML, CSS, and JavaScript;
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Ruby;
 - 💞️ I’m looking for make some experience and sharpen my skills.
 - 📫 For enquire just mail me at spikeroveri91@gmail.com
 
