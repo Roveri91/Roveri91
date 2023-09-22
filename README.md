@@ -4,7 +4,7 @@
 - :man_technologist: Ruby, Rails, JS, PostgreSQL, HTML, CSS; 
 - 💞️ I’m looking for make some experience and sharpen my skills.
 - :goal_net: Aiming to land a job as a Full-Stack Web Developer.
-- 📫 spikeroveri91@gmail.com
+- 📫 simoneroverijob@gmail.com
 
 
 - :loudspeaker: " I’m the type of person that if you ask me a question and I don’t know the answer, 
