@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Simone Roveri :pizza: Full-Stack Web-Developer based in Osaka;
 - 👀 I love video games, sports and any kind of music;
-- 🌱 Recetntly graduated at Le Wagon Full-Stack Web Development bottcamp;
+- 🌱 Graduated at Le Wagon Full-Stack Web Development bottcamp and currently working as Full-Stack Web Developer;
 - :man_technologist: Ruby, Rails, JS, PostgreSQL, HTML, CSS, React, Docker, Sidekiq; 
 - 💞️ I’m looking for make some experience and sharpen my skills.
-- :goal_net: Aiming to land a job as a Full-Stack Web Developer.
+- :goal_net: Aiming to become an experienced Full-Stack Web Developer.
 - 📫 simoneroverijob@gmail.com
 
 
