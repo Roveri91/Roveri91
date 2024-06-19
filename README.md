@@ -1,5 +1,3 @@
-<div style="background-color:#f0f0f0; padding:10px;">
-
 **Welcome to My GitHub Profile!** 🌟
 
 # Roveri91
@@ -21,5 +19,3 @@
 ---
  
 ![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roveri91&show_icons=true&theme=panda)
-
-</div>
