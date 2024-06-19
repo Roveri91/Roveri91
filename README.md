@@ -1,8 +1,6 @@
-꧁༺ Roveri Simone ༻꧂
+# Welcome to My GitHub Profile! 🌟
 
-![YourUsername](https://img.shields.io/badge/Roveri91-007EC6?style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/Roveri91?style=social)
+# Roveri91
 
 ---
 
