@@ -1,3 +1,7 @@
+![Followers](https://img.shields.io/github/followers/Roveri91?style=social)
+
+---
+
 - 👋 Hi, I’m Simone Roveri :pizza: Full-Stack Web-Developer based in Osaka;
 - 👀 I love video games, sports and any kind of music;
 - 🌱 Graduated at Le Wagon Full-Stack Web Development bottcamp and currently working as Full-Stack Web Developer;
@@ -14,3 +18,5 @@
 ---
  
 ![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roveri91&show_icons=true&theme=panda)
+
+---
