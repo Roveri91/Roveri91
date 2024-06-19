@@ -19,5 +19,3 @@
 ---
  
 ![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roveri91&show_icons=true&theme=panda)
-
----
