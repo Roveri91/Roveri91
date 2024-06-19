@@ -2,7 +2,6 @@
 
 # Roveri91
 
-*Roveri91*
 
 - 👋 Hi, I’m Simone Roveri :pizza: Full-Stack Web-Developer based in Osaka;
 - 👀 I love video games, sports and any kind of music;
